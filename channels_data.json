@@ -1,5 +1,5 @@
 {
-  "lastUpdate": 1776755573546,
+  "lastUpdate": 1776755812797,
   "channels": [
     {
       "id": "EBC_FUN",
@@ -31,6 +31,7 @@
       "url": "https://www.youtube.com/@wassupmanletschill",
       "isLive": false,
       "recentVideoIds": [
+        "GdDW46aPntQ",
         "Lng1MDVU3oE",
         "GcVlXa8QLXs",
         "w136EgY5GV4",
@@ -39,8 +40,7 @@
         "JtG_oXvm0Bk",
         "0o9byEFyif0",
         "cKf_LdO0qf4",
-        "0lKeLbYadU8",
-        "ymCk7WBelp4"
+        "0lKeLbYadU8"
       ]
     },
     {
@@ -52,6 +52,7 @@
       "url": "https://www.youtube.com/@ebcsupernight",
       "isLive": false,
       "recentVideoIds": [
+        "MVCYCNsB3yI",
         "TYl_jlzDMNQ",
         "4uTkMgFDQ7s",
         "waFQKT-hy_A",
@@ -60,8 +61,7 @@
         "zFpdGsj5p_4",
         "VU4TJyQts_g",
         "9Txe3kgQAkM",
-        "xT_R3HhMRlE",
-        "5UcOF1Bkjh8"
+        "xT_R3HhMRlE"
       ]
     },
     {
@@ -172,7 +172,7 @@
     {
       "id": "FTV",
       "name": "FTV News",
-      "videoId": "JgoF-4ApE2M",
+      "videoId": "gFOESKk5FWA",
       "category": "News",
       "logo": "/taiwan-tv/FTV-News.png",
       "url": "https://www.youtube.com/@FTV_News",
@@ -193,7 +193,7 @@
     {
       "id": "CTI",
       "name": "CTI News",
-      "videoId": "HzavYRaQNR8",
+      "videoId": "xDTj4bk4918",
       "category": "News",
       "logo": "/taiwan-tv/CTI.png",
       "url": "https://www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw",

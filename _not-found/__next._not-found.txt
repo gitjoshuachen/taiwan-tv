@@ -2,4 +2,4 @@
 2:I[39756,["/taiwan-tv/_next/static/chunks/0dbhjjzl8qfwv.js"],"default"]
 3:I[37457,["/taiwan-tv/_next/static/chunks/0dbhjjzl8qfwv.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"BL5yP0d0FMs_D3TbylwTP"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"teax478wGjT2x5MbyC24n"}
