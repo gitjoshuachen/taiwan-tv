@@ -1,0 +1,104 @@
+{
+  "lastUpdate": 1776400638898,
+  "channels": [
+    {
+      "id": "EBC_FUN",
+      "name": "EBC Having Fun Together",
+      "videoId": "RcZfuIpBRlc",
+      "category": "Variety",
+      "logo": "/EBC.png",
+      "url": "https://www.youtube.com/@ebchavingfuntogether",
+      "isLive": false
+    },
+    {
+      "id": "WASSUP",
+      "name": "Wassup Man Lets Chill",
+      "videoId": "BkUMQ5UDDik",
+      "category": "Variety",
+      "logo": "/Wassup-Man.png",
+      "url": "https://www.youtube.com/@wassupmanletschill",
+      "isLive": false
+    },
+    {
+      "id": "EBC_SUPER",
+      "name": "EBC Super Night",
+      "videoId": "9Txe3kgQAkM",
+      "category": "Variety",
+      "logo": "/EBC-SuperNight.png",
+      "url": "https://www.youtube.com/@ebcsupernight",
+      "isLive": false
+    },
+    {
+      "id": "Formosa_TV",
+      "name": "Formosa TV",
+      "videoId": "UBdW1dbkbKE",
+      "category": "Variety",
+      "logo": "/Formosa-TV.png",
+      "url": "https://www.youtube.com/@FTV_Show",
+      "isLive": false
+    },
+    {
+      "id": "1001_Taiwan_Stories",
+      "name": "1001 Taiwan Stories",
+      "videoId": "zsH-SCCC68g",
+      "category": "Variety",
+      "logo": "/1001-Taiwan-Stories.png",
+      "url": "https://www.youtube.com/@1001taiwanstories",
+      "isLive": false
+    },
+    {
+      "id": "TW_Record_TV",
+      "name": "TW Record TV",
+      "videoId": "hj310Mzv_X8",
+      "category": "Variety",
+      "logo": "/TW-Record-TV.png",
+      "url": "https://www.youtube.com/@twrecordtv",
+      "isLive": false
+    },
+    {
+      "id": "TVBS",
+      "name": "TVBS News",
+      "videoId": "s2ybkxEMA2Y",
+      "category": "News",
+      "logo": "/TVBS.png",
+      "url": "https://www.youtube.com/@TVBSNEWS01",
+      "isLive": true
+    },
+    {
+      "id": "SETN",
+      "name": "SET News",
+      "videoId": "YNoornJ20WM",
+      "category": "News",
+      "logo": "/SET.png",
+      "url": "https://www.youtube.com/@setn",
+      "isLive": true
+    },
+    {
+      "id": "FTV",
+      "name": "FTV News",
+      "videoId": "x_z3bcuuP-g",
+      "category": "News",
+      "logo": "/FTV-News.png",
+      "url": "https://www.youtube.com/@FTV_News",
+      "isLive": true
+    },
+    {
+      "id": "CTI",
+      "name": "CTI News",
+      "videoId": "vr3XyVCR4T0",
+      "category": "News",
+      "logo": "/CTI.png",
+      "url": "https://www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw",
+      "isLive": true
+    },
+    {
+      "id": "CTS",
+      "name": "CTS News",
+      "videoId": "yZpbMowN_uE",
+      "category": "News",
+      "logo": "/CTS.png",
+      "url": "https://www.youtube.com/@CTS_News",
+      "isLive": true
+    }
+  ]
+}
