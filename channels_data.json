@@ -1,104 +1,236 @@
 {
-  "lastUpdate": 1776400638898,
+  "lastUpdate": 1776755573546,
   "channels": [
     {
       "id": "EBC_FUN",
       "name": "EBC Having Fun Together",
-      "videoId": "RcZfuIpBRlc",
+      "videoId": "_81ula0muVI",
       "category": "Variety",
-      "logo": "/EBC.png",
+      "logo": "/taiwan-tv/EBC.png",
       "url": "https://www.youtube.com/@ebchavingfuntogether",
-      "isLive": false
+      "isLive": false,
+      "recentVideoIds": [
+        "_81ula0muVI",
+        "aWjqr7ySYO0",
+        "We7EKK1-a68",
+        "T2UEu24Ith4",
+        "wMAON0mjyI8",
+        "dSlxAsjvpPg",
+        "RcZfuIpBRlc",
+        "XsAaZWDP_No",
+        "HQH24SH51rI",
+        "D-z1Gq2yM2k"
+      ]
     },
     {
       "id": "WASSUP",
       "name": "Wassup Man Lets Chill",
-      "videoId": "BkUMQ5UDDik",
+      "videoId": "GcVlXa8QLXs",
       "category": "Variety",
-      "logo": "/Wassup-Man.png",
+      "logo": "/taiwan-tv/Wassup-Man.png",
       "url": "https://www.youtube.com/@wassupmanletschill",
-      "isLive": false
+      "isLive": false,
+      "recentVideoIds": [
+        "Lng1MDVU3oE",
+        "GcVlXa8QLXs",
+        "w136EgY5GV4",
+        "G2d9j3Grwyo",
+        "BkUMQ5UDDik",
+        "JtG_oXvm0Bk",
+        "0o9byEFyif0",
+        "cKf_LdO0qf4",
+        "0lKeLbYadU8",
+        "ymCk7WBelp4"
+      ]
     },
     {
       "id": "EBC_SUPER",
       "name": "EBC Super Night",
-      "videoId": "9Txe3kgQAkM",
+      "videoId": "gGQ7JEd_Kbs",
       "category": "Variety",
-      "logo": "/EBC-SuperNight.png",
+      "logo": "/taiwan-tv/EBC-SuperNight.png",
       "url": "https://www.youtube.com/@ebcsupernight",
-      "isLive": false
+      "isLive": false,
+      "recentVideoIds": [
+        "TYl_jlzDMNQ",
+        "4uTkMgFDQ7s",
+        "waFQKT-hy_A",
+        "ZHSBIy6f5Ik",
+        "huDOBR2enTo",
+        "zFpdGsj5p_4",
+        "VU4TJyQts_g",
+        "9Txe3kgQAkM",
+        "xT_R3HhMRlE",
+        "5UcOF1Bkjh8"
+      ]
     },
     {
       "id": "Formosa_TV",
       "name": "Formosa TV",
-      "videoId": "UBdW1dbkbKE",
+      "videoId": "tzXyaAN2_Uo",
       "category": "Variety",
-      "logo": "/Formosa-TV.png",
+      "logo": "/taiwan-tv/Formosa-TV.png",
       "url": "https://www.youtube.com/@FTV_Show",
-      "isLive": false
+      "isLive": false,
+      "recentVideoIds": [
+        "DHcMF7vD3zc",
+        "gta6cmJEEOc",
+        "_oJa0YWlicY",
+        "A4tWvR0w9xk",
+        "0lzr3odAh9I",
+        "uicJF5gUfI8",
+        "aDNr6fW5eUA",
+        "LtFpDjtAsZ4",
+        "s5m_N5Ecwus",
+        "FlDuBGaQUWo"
+      ]
     },
     {
       "id": "1001_Taiwan_Stories",
       "name": "1001 Taiwan Stories",
-      "videoId": "zsH-SCCC68g",
+      "videoId": "80KptViAvUA",
       "category": "Variety",
-      "logo": "/1001-Taiwan-Stories.png",
+      "logo": "/taiwan-tv/1001-Taiwan-Stories.png",
       "url": "https://www.youtube.com/@1001taiwanstories",
-      "isLive": false
+      "isLive": false,
+      "recentVideoIds": [
+        "Wh4NmC3l97k",
+        "2bW3FBSoXhU",
+        "T6_6LoBpM6c",
+        "wK-Hg7yiiLE",
+        "zsH-SCCC68g",
+        "-hzf38cErsc",
+        "W6m7V7tCa9c",
+        "fX5-smA4CWM",
+        "dPVrqz0MwhM",
+        "7SXEitK7yVs"
+      ]
     },
     {
       "id": "TW_Record_TV",
       "name": "TW Record TV",
-      "videoId": "hj310Mzv_X8",
+      "videoId": "MmMl5Wf3M7w",
       "category": "Variety",
-      "logo": "/TW-Record-TV.png",
+      "logo": "/taiwan-tv/TW-Record-TV.png",
       "url": "https://www.youtube.com/@twrecordtv",
-      "isLive": false
+      "isLive": false,
+      "recentVideoIds": [
+        "mX-o1wyi6uI",
+        "-WhJ6B73sOU",
+        "9qDXpCp-wJg",
+        "hj310Mzv_X8",
+        "jzSPBFZhBFg",
+        "ux36Bk7UfDQ",
+        "g71WGKHzRbA",
+        "X4c_dq7XjUw",
+        "ek0Q7YvSH3k",
+        "VbyXgbSUtmM"
+      ]
     },
     {
       "id": "TVBS",
       "name": "TVBS News",
-      "videoId": "s2ybkxEMA2Y",
+      "videoId": "m_dhMSvUCIc",
       "category": "News",
-      "logo": "/TVBS.png",
+      "logo": "/taiwan-tv/TVBS.png",
       "url": "https://www.youtube.com/@TVBSNEWS01",
-      "isLive": true
+      "isLive": true,
+      "recentVideoIds": [
+        "hS1bniF3eaY",
+        "fvMpNgjXBvs",
+        "u0-UkJMIZf8",
+        "kJaDvOzXp04",
+        "Q4uoh6HTkiY",
+        "ex3JREXv9Eo",
+        "QNsvMus1OvY",
+        "4CsJvehHzpI",
+        "wdb8yz5vwzo",
+        "vSTxjAHIeVs"
+      ]
     },
     {
       "id": "SETN",
       "name": "SET News",
-      "videoId": "YNoornJ20WM",
+      "videoId": "IEErAs7-TpU",
       "category": "News",
-      "logo": "/SET.png",
+      "logo": "/taiwan-tv/SET.png",
       "url": "https://www.youtube.com/@setn",
-      "isLive": true
+      "isLive": true,
+      "recentVideoIds": [
+        "KZoPSofCuZQ",
+        "8oCPXqO8Low",
+        "BfsY1cI1VT4",
+        "2O1LFRtXzrs",
+        "LX8mmgPlRfE",
+        "q0zteAONYF8",
+        "VYciuy_Mpgc",
+        "R-9WFLYKefg",
+        "hIDNIkEAsuA",
+        "C7X5wvVgiCg"
+      ]
     },
     {
       "id": "FTV",
       "name": "FTV News",
-      "videoId": "x_z3bcuuP-g",
+      "videoId": "JgoF-4ApE2M",
       "category": "News",
-      "logo": "/FTV-News.png",
+      "logo": "/taiwan-tv/FTV-News.png",
       "url": "https://www.youtube.com/@FTV_News",
-      "isLive": true
+      "isLive": true,
+      "recentVideoIds": [
+        "BCWsd3PCNsA",
+        "2m2JtOvHsjI",
+        "bmHdijpNDus",
+        "N2Ma5Z9CP58",
+        "56nAOmAeF0c",
+        "lJSztYpf-_U",
+        "fbnnomHLleg",
+        "TlpDWCLDo2M",
+        "LANIMcTty1I",
+        "gJFhERxNIT0"
+      ]
     },
     {
       "id": "CTI",
       "name": "CTI News",
-      "videoId": "vr3XyVCR4T0",
+      "videoId": "HzavYRaQNR8",
       "category": "News",
-      "logo": "/CTI.png",
+      "logo": "/taiwan-tv/CTI.png",
       "url": "https://www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw",
-      "isLive": true
+      "isLive": true,
+      "recentVideoIds": [
+        "mqogbrf2fpw",
+        "f5CiWL0LxR4",
+        "WEodcG_CHSc",
+        "NhCSSKBOKks",
+        "M5j_sKI5iqU",
+        "ii_jZ4lL2Oc",
+        "VsjEB_O2x7Q",
+        "3jhGdNSfufY",
+        "xe1WWPK9fkw",
+        "RWJhNj2tkFg"
+      ]
     },
     {
       "id": "CTS",
       "name": "CTS News",
       "videoId": "yZpbMowN_uE",
       "category": "News",
-      "logo": "/CTS.png",
+      "logo": "/taiwan-tv/CTS.png",
       "url": "https://www.youtube.com/@CTS_News",
-      "isLive": true
+      "isLive": true,
+      "recentVideoIds": [
+        "O8sbCazgKOc",
+        "PzGLI6OfGTo",
+        "kzWJSfYWxzo",
+        "nrIDYv4HpG4",
+        "iFymOMrmSb4",
+        "vqPIGe0M8zM",
+        "0pGB9bON1OE",
+        "gpSbhFgY_S8",
+        "pekw_aMWRUI",
+        "Ze4eJkgYDzo"
+      ]
     }
   ]
 }
