@@ -1,5 +1,5 @@
 {
-  "lastUpdate": 1776756674553,
+  "lastUpdate": 1776779620235,
   "channels": [
     {
       "id": "EBC_FUN",
@@ -31,6 +31,8 @@
       "url": "https://www.youtube.com/@wassupmanletschill",
       "isLive": false,
       "recentVideoIds": [
+        "n6Sb7P2ITLY",
+        "jUuojIKY090",
         "GUL_6Lwm220",
         "GdDW46aPntQ",
         "Lng1MDVU3oE",
@@ -38,9 +40,7 @@
         "w136EgY5GV4",
         "G2d9j3Grwyo",
         "BkUMQ5UDDik",
-        "JtG_oXvm0Bk",
-        "0o9byEFyif0",
-        "cKf_LdO0qf4"
+        "JtG_oXvm0Bk"
       ]
     },
     {
@@ -52,6 +52,8 @@
       "url": "https://www.youtube.com/@ebcsupernight",
       "isLive": false,
       "recentVideoIds": [
+        "_GPGVugHxvs",
+        "Wp5fMyLT6p0",
         "MVCYCNsB3yI",
         "TYl_jlzDMNQ",
         "4uTkMgFDQ7s",
@@ -59,9 +61,7 @@
         "ZHSBIy6f5Ik",
         "huDOBR2enTo",
         "zFpdGsj5p_4",
-        "VU4TJyQts_g",
-        "9Txe3kgQAkM",
-        "xT_R3HhMRlE"
+        "VU4TJyQts_g"
       ]
     },
     {
@@ -73,6 +73,7 @@
       "url": "https://www.youtube.com/@FTV_Show",
       "isLive": false,
       "recentVideoIds": [
+        "8WZGFc9-8kQ",
         "DHcMF7vD3zc",
         "gta6cmJEEOc",
         "_oJa0YWlicY",
@@ -81,8 +82,7 @@
         "uicJF5gUfI8",
         "aDNr6fW5eUA",
         "LtFpDjtAsZ4",
-        "s5m_N5Ecwus",
-        "FlDuBGaQUWo"
+        "s5m_N5Ecwus"
       ]
     },
     {
@@ -94,16 +94,16 @@
       "url": "https://www.youtube.com/@1001taiwanstories",
       "isLive": false,
       "recentVideoIds": [
+        "wYHOo0LgWBM",
+        "KNIAh0Gor8s",
+        "dqajPzHiDI4",
+        "ELG0fdEDWYE",
+        "bpmlOozJeEI",
+        "P5CEw6X1ocA",
         "Wh4NmC3l97k",
         "2bW3FBSoXhU",
         "T6_6LoBpM6c",
-        "wK-Hg7yiiLE",
-        "zsH-SCCC68g",
-        "-hzf38cErsc",
-        "W6m7V7tCa9c",
-        "fX5-smA4CWM",
-        "dPVrqz0MwhM",
-        "7SXEitK7yVs"
+        "wK-Hg7yiiLE"
       ]
     },
     {
@@ -136,79 +136,79 @@
       "url": "https://www.youtube.com/@TVBSNEWS01",
       "isLive": true,
       "recentVideoIds": [
-        "wdb8yz5vwzo",
-        "hS1bniF3eaY",
-        "fvMpNgjXBvs",
-        "u0-UkJMIZf8",
-        "kJaDvOzXp04",
-        "Q4uoh6HTkiY",
-        "ex3JREXv9Eo",
-        "QNsvMus1OvY",
-        "4CsJvehHzpI",
-        "vSTxjAHIeVs"
+        "tXQBcFaHAXk",
+        "hzQieJZQgWU",
+        "UA0gdvOFMho",
+        "fKSkU9Zu1uo",
+        "M6b0dXDtd3g",
+        "JLZztodtg7c",
+        "2oLtPh8DQ2E",
+        "8DeNyG8ara0",
+        "Mz-Lp86vcg4",
+        "Us5kObGZA48"
       ]
     },
     {
       "id": "SETN",
       "name": "SET News",
-      "videoId": "IEErAs7-TpU",
+      "videoId": "QQTJI-K2TPc",
       "category": "News",
       "logo": "/taiwan-tv/SET.png",
       "url": "https://www.youtube.com/@setn",
       "isLive": true,
       "recentVideoIds": [
-        "pLdB5kvopDY",
-        "5pJz4ezM154",
-        "BPvv4WouDxU",
-        "KZoPSofCuZQ",
-        "8oCPXqO8Low",
-        "BfsY1cI1VT4",
-        "2O1LFRtXzrs",
-        "LX8mmgPlRfE",
-        "q0zteAONYF8",
-        "VYciuy_Mpgc"
+        "Lc48WMh5vOA",
+        "0_UEg7qd3Bs",
+        "vvA2PUDZBBI",
+        "8YfP1RM_X1I",
+        "53Wkgf-zErI",
+        "KSos0hw8abs",
+        "PJn5dO__7Cs",
+        "HbNg9zmF7j4",
+        "oE1AKQfWWRQ",
+        "FKo2zAtwEFw"
       ]
     },
     {
       "id": "FTV",
       "name": "FTV News",
-      "videoId": "gFOESKk5FWA",
+      "videoId": "4Fqw65z_bZw",
       "category": "News",
       "logo": "/taiwan-tv/FTV-News.png",
       "url": "https://www.youtube.com/@FTV_News",
       "isLive": true,
       "recentVideoIds": [
-        "BCWsd3PCNsA",
-        "2m2JtOvHsjI",
-        "bmHdijpNDus",
-        "N2Ma5Z9CP58",
-        "56nAOmAeF0c",
-        "lJSztYpf-_U",
-        "fbnnomHLleg",
-        "TlpDWCLDo2M",
-        "LANIMcTty1I",
-        "gJFhERxNIT0"
+        "KXeSWYwQ5ro",
+        "ns9WDwAOdpE",
+        "BUzOgiVMcOA",
+        "U-ZgA2o0Xfw",
+        "NTks6pMRqqo",
+        "hFTdNh35yCM",
+        "x_4chWeY0_w",
+        "j2IQbSaHxo8",
+        "W0Sydi_HtPI",
+        "IgZAZK_24Vs"
       ]
     },
     {
       "id": "CTI",
       "name": "CTI News",
-      "videoId": "vuAi6Ml9ZVs",
+      "videoId": "AVz5HKCW_Ec",
       "category": "News",
       "logo": "/taiwan-tv/CTI.png",
       "url": "https://www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw",
       "isLive": true,
       "recentVideoIds": [
-        "mqogbrf2fpw",
-        "f5CiWL0LxR4",
-        "WEodcG_CHSc",
-        "NhCSSKBOKks",
-        "M5j_sKI5iqU",
-        "ii_jZ4lL2Oc",
-        "VsjEB_O2x7Q",
-        "3jhGdNSfufY",
-        "xe1WWPK9fkw",
-        "RWJhNj2tkFg"
+        "W9ehPTRPZmc",
+        "Q1BYuxaoWlE",
+        "T5McxOz8fos",
+        "jJ50-5r_qaI",
+        "mi1kzWdIub0",
+        "0hsd6frsLH0",
+        "qBpN-iGd2Kg",
+        "nCBxFEckVXg",
+        "bGKW16G-3XY",
+        "RrW-4d6N_gQ"
       ]
     },
     {
@@ -220,16 +220,16 @@
       "url": "https://www.youtube.com/@CTS_News",
       "isLive": true,
       "recentVideoIds": [
-        "O8sbCazgKOc",
-        "PzGLI6OfGTo",
-        "kzWJSfYWxzo",
-        "nrIDYv4HpG4",
-        "iFymOMrmSb4",
-        "vqPIGe0M8zM",
-        "0pGB9bON1OE",
-        "gpSbhFgY_S8",
-        "pekw_aMWRUI",
-        "Ze4eJkgYDzo"
+        "pE1mjR57fUk",
+        "G4qtrRnVMls",
+        "Yg7Lo2Z_nDo",
+        "GzrUVRMazi8",
+        "7ylVLFAg8jU",
+        "THLtiVog8A0",
+        "K7IJTxiGkd0",
+        "E50Ro52RbBM",
+        "cSax6xl4xI0",
+        "mYWebSEYDzY"
       ]
     }
   ]
